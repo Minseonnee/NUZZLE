@@ -973,6 +973,7 @@ input{    margin-top: 130.5px;
     padding: 10px;
     width: 540px;
     height: 32px;
+	opacity: 0.5;
 }
 
 .button>a{
@@ -1130,4 +1131,5 @@ input{    margin-top: 130.5px;
 
 .footer_right_ul2 li:nth-child(4){
     padding-top: 28px;
+
 }

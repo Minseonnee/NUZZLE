@@ -345,6 +345,11 @@ span{
     transition: all 0.5s;
 }
 
+.s2_p{
+    margin-left: 50px;
+    margin-top: 1px;
+}
+
 #bank_wrap {
     margin-top: 100px;
     position: relative;
@@ -1133,3 +1138,4 @@ input{    margin-top: 130.5px;
     padding-top: 28px;
 
 }
+
